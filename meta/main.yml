@@ -2,9 +2,11 @@
 dependencies: []
 
 galaxy_info:
+  role_name: nodejs
   author: Aaron W. West
-  description: Node.js installation for Linux
+  description: Ansible role that installs Node.js.
   min_ansible_version: 2.4
+  license: "license (BSD, MIT)"
   platforms:
     - name: EL
       versions:
